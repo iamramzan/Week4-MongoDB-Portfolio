@@ -1,4 +1,4 @@
-## MongoDB and Mongoose — Person Collection
+## MongoDB and Mongoose: Person Collection
 
 This project demonstrates how to manage and query data using MongoDB and Mongoose with Node.js. It focuses on extending a Person schema by adding a `city` field, inserting records, and retrieving people based on their city. This practical exercise helped me understand how to store, update, and search data in a MongoDB database.
 
@@ -20,11 +20,11 @@ This project demonstrates how to manage and query data using MongoDB and Mongoos
 
 ## 🧩 Main Functions
 
-- **`insertMany()`** — Inserts multiple person records into the collection.
-- **`find()`** — Retrieves records that match a specified condition, such as a city.
-- **`countDocuments()`** — Counts documents that match a condition.
-- **`updateMany()`** — Updates multiple documents that match a condition.
-- **`mongoose.connect()`** — Connects the application to the MongoDB database.
+- **`insertMany()`**: Inserts multiple person records into the collection.
+- **`find()`**: Retrieves records that match a specified condition, such as a city.
+- **`countDocuments()`**: Counts documents that match a condition.
+- **`updateMany()`**: Updates multiple documents that match a condition.
+- **`mongoose.connect()`**: Connects the application to the MongoDB database.
 
 ## 🎯 Learning Outcomes
 
